@@ -17,6 +17,8 @@ from Lecture Videos** Seulgi Choi, Hyewon Lee, Yoonjoo Lee, and Juho Kim. 2023
 
 > System demo from 00:55
 
+[![Watch the video](https://img.youtube.com/vi/jLzCfplTRbs/default.jpg)](https://youtu.be/jLzCfplTRbs)
+
 ### Abstract
 
 The lengthy monologue-style online lectures cause learners to lose engagement easily. Designing lectures in a “vicarious dialogue” format can foster learners’ cognitive activities more than monologue- style. However, designing online lectures in a dialogue style catered to the diverse needs of learners is laborious for instructors. We conducted a design workshop with eight educational experts and seven instructors to present key guidelines and the potential use of large language models (LLM) to transform a monologue lecture script into pedagogically meaningful dialogue.
