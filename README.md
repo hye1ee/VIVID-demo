@@ -15,9 +15,9 @@ from Lecture Videos** Seulgi Choi, Hyewon Lee, Yoonjoo Lee, and Juho Kim. 2023
 
 ### Recorded Demo
 
-> System demo from 00:55
+> Click below image to see the system demo starts from 00:55
 
-[![Watch the video](https://img.youtube.com/vi/jLzCfplTRbs/default.jpg)](https://youtu.be/jLzCfplTRbs)
+[<img src="https://img.youtube.com/vi/jLzCfplTRbs/0.jpg" width="80%">](https://youtu.be/jLzCfplTRbs)
 
 ### Abstract
 
