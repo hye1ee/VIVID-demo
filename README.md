@@ -7,7 +7,7 @@ from Lecture Videos** Seulgi Choi, Hyewon Lee, Yoonjoo Lee, and Juho Kim. 2023
 
 **VIVID** is an LLM(Large Language Model) collaborative authoring tool to design, evaluate, and modify pedagogical dialogues. It only requires a monologue styled lecture video to create a high-quality educational dialogue script.
 
-### COMMING SOON
+### COMING SOON
 
 - [ ] Demo with pre-selected video
 
