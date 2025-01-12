@@ -1,9 +1,9 @@
 # VIVID
 
 This is the frontend code of system VIVID from
-<br /> **VIVID: Human-AI Collaborative Authoring of Vicarious Dialogues
+<br /> [**VIVID: Human-AI Collaborative Authoring of Vicarious Dialogues
 from Lecture Videos** Seulgi Choi, Hyewon Lee, Yoonjoo Lee, and Juho Kim. 2023
-(ACM CHI 2024 published)
+(ACM CHI 2024 published)](https://dl.acm.org/doi/pdf/10.1145/3613904.3642867)
 
 **VIVID** is an LLM(Large Language Model) collaborative authoring tool to design, evaluate, and modify pedagogical dialogues. It only requires a monologue styled lecture video to create a high-quality educational dialogue script.
 
